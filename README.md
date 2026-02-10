@@ -4,6 +4,8 @@ A lizard management sim. Get lizards, train their stickiness, and send them to c
 
 Built with Electron, React, TypeScript, and Zustand.
 
+> [🧚 **Hey, listen!** You can support my development of open-source software on Patreon](https://www.patreon.com/BenMakesGames)
+
 ## Getting Started
 
 ```bash
